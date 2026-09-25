@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "🌹自建接口🌹",
-      "sourceUrl": "https://codeberg.org/kissme-taotao/ysc/raw/branch/main/zijianjiek.json"
+      "sourceUrl": "./zijianjiek.json"
     },
     {
       "sourceName": "🌹网络收集🌹",
-      "sourceUrl": "https://codeberg.org/kissme-taotao/ysc/raw/branch/main/wangluoshouji.json"
+      "sourceUrl": "./wangluoshouji.json"
     }
   ]
 }
