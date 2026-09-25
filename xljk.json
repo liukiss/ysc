@@ -719,6 +719,16 @@
       ],
       "hide": 1
     },
+	{
+      "key": "西瓜",
+      "name": "🎬西瓜 • 资源🎬",
+      "type": 1,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "hide": 1
+    },
     {
       "name": "📺拜拜 • 短剧📺",
       "key": "Bddj",
