@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "🌹自建接口🌹",
-      "sourceUrl": "./zijianjiek.json"
+      "sourceUrl": "https://tv.ysccn.top/zijianjiek.json"
     },
     {
       "sourceName": "🌹网络收集🌹",
-      "sourceUrl": "./wangluoshouji.json"
+      "sourceUrl": "https://tv.ysccn.top/wangluoshouji.json"
     }
   ]
 }
