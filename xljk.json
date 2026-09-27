@@ -780,18 +780,14 @@
       "hide": 1
     },
 	{
-    "key": "360资源",
-    "name": "🎬360 • 资源🎬",
-    "type": 1,
-    "api": "https://360zyzz.com/api.php/provide/vod",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
+      "key": "360资源",
+      "name": "🎬360 • 资源🎬",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
         "伦理片",
         "动作片",
         "喜剧片",
@@ -838,9 +834,8 @@
         "反转爽剧",
         "女频恋爱",
         "成长逆袭"
-    ]
-},
-
+      ]
+    },
     {
       "name": "📺拜拜 • 短剧📺",
       "key": "Bddj",
