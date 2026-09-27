@@ -720,20 +720,26 @@
       "hide": 1
     },
 	{
-      "key": "西瓜",
-      "name": "🎬西瓜 • 资源🎬",
+      "key": "爱坤",
+      "name": "🎬爱坤 • 资源🎬",
       "type": 1,
-      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
 	  "categories": [
-        "动作片",
+        "电影",
+        "连续剧",
+        "综艺",		  
+		"动作片",
 		"喜剧片",
 		"爱情片",
 		"科幻片",
 		"恐怖片",
 		"剧情片",
+		"战争片",
+		"惊悚片",
+		"灾难片",
 		"国产剧",
 		"韩国剧",
 		"欧美剧",
@@ -741,7 +747,7 @@
 		"记录片",
 		"动画片",
 		"大陆综艺",
-		"短剧"
+		"短片"
       ],	
       "hide": 1
     },
