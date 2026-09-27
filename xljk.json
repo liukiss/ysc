@@ -720,10 +720,10 @@
       "hide": 1
     },
 	{
-      "key": "爱坤",
-      "name": "🎬爱坤 • 资源🎬",
+      "key": "爱奇艺",
+      "name": "🎬爱奇艺 • 资源🎬",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -740,14 +740,15 @@
 		"战争片",
 		"惊悚片",
 		"灾难片",
+		"记录片",
+		"短片",
 		"国产剧",
 		"韩国剧",
 		"欧美剧",
-		"泰国剧",
-		"记录片",
-		"动画片",
+		"泰国剧",		
+		"AI漫剧",
 		"大陆综艺",
-		"短片"
+		"短剧"
       ],	
       "hide": 1
     },
