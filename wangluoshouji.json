@@ -4,8 +4,12 @@
       "url": "http://tvbox.王二小放牛娃.top",
       "name": "🔥王二小🔥"
     },
+	{
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "🔥王二小vip🔥"
+    },  
     {
-      "url": "http://www.饭太硬.cc/tv/",
+      "url": "http://www.饭太硬.cc/tv",
       "name": "🔥饭太硬🔥"
     },
     {
@@ -13,13 +17,17 @@
       "name": "🔥肥猫🔥"
     },
     {
-      "url": "http://影视仓.com/",
+      "url": "http://影视仓.com",
       "name": "🔥影视仓4k聚合🔥"
     },
     {
       "url": "http://宝盒接口.top",
       "name": "🔥宝盒🔥"
     },
+	{
+      "url": "http://deep.starlink.uno",
+      "name": "🔥小哥哥🔥"
+    }, 
     {
       "url": "http://mzrjk.top/VIP",
       "name": "🔥金鱼🔥"
@@ -59,18 +67,6 @@
 	{
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
       "name": "🔥小米（无官）🔥"
-    },	
-    {
-      "url": "clan://localhost/itvba/tvbox/ouge/111.json",
-      "name": "🧡讴歌本地🧡"
-    },
-    {
-      "url": "clan://localhost/itvba/tvbox/feimao/facat.json",
-      "name": "🧡肥猫本地🧡"
-    },
-    {
-      "url": "clan://localhost/itvba/tvbox/xiaomi/xiaomi.json",
-      "name": "🧡小米本地🧡"
-    }
+    }    
   ]
 }
