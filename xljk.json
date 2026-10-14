@@ -90,7 +90,7 @@
     {"key":"王子","name":"🎬王子 • APP","type":3,"api":"csp_AppGet","jar":"./jar/spider.jar","searchable":1,"changeable":1,"ext":{"url":"https://app.95112475.xyz","dataKey":"5a9w6x58dsq6z3a6","dataIv":"5a9w6x58dsq6z3a6"}},
     {"key":"茉莉","name":"🎬茉莉 • APP","type":3,"api":"csp_AppGet","jar":"./jar/spider.jar","searchable":1,"changeable":1,"ext":{"site":"./lib/9.txt","dataKey":"88689667dce61725","dataIv":"88689667dce61725"}},
     {"key":"瓜子影视","name":"📺v瓜子 • 影视","type":3,"api":"csp_Gz360","jar":"./jar/spider.jar"},
-    {"key": "旺旺影视","name": "旺旺 • 影视","type": 3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
+    {"key": "旺旺影视","name":"📺旺旺 • 影视","type": 3,"api": "csp_Wwys","jar":"./jar/spider.jar","ext": "https://vip.wwgz.cn:5200"},
     {"key":"飞娱影视","name":"📺飞娱 • 影视","type":3,"api":"csp_Feiyu","jar":"./jar/spider.jar"},
     {"key":"独播影视","name":"📺独播 • 影视","type":3,"api":"csp_Duboku","jar":"./jar/spider.jar"},
     {"key":"厂长影视","name":"📺厂长 • 影视","type":3,"api":"csp_Czsapp","jar":"./jar/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.vip"},
